@@ -1,0 +1,13 @@
+Thumbs.db
+
+[directorios]
+datos/
+resultados/
+intermediateData/
+images/
+
+[otros]
+/#*
+.#*
+.write*
+*~
