@@ -11,3 +11,6 @@ images/
 .#*
 .write*
 *~
+
+# Archivos temporales de Office
+~*
