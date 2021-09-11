@@ -1,0 +1,14 @@
+## This document specifies current version and keeps the changelog
+
+Current version: 0.1
+
+== Changelog ==
+
+v.0.2 (2021/09/10)
+- Orders mice registers by principal investigator, then age, then unique ID. This makes easier to select info to send to each PI without revealing info from other PIs.
+- List of strains and principal investigators.
+
+v.0.1 (2021/09/03)
+- Orders mice registers by strain, then age, then unique ID (only older than 1 year old).
+- Table of number of mice by strain by age.
+- Bar plot from said table.
