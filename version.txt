@@ -8,6 +8,7 @@ v.0.3 (2021/09/28)
 - Added a field in Hoja2 to choose minimum age of mice included in the list.
 - Fixed bug in ordering of mice by age.
 - Fixed bug that returned value 0 instead of "" when copying a blank "Marca" field in Hoja 2.
+- Added a column in Hoja2 with location (room and rack) of the mouse.
 
 v.0.2 (2021/09/10)
 - Orders mice registers by principal investigator, then age, then unique ID. This makes easier to select info to send to each PI without revealing info from other PIs.
