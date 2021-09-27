@@ -1,8 +1,17 @@
 ## This document specifies current version and keeps the changelog
 
-Current version: 0.1
+Current version: 0.3
 
 == Changelog ==
+
+v.0.3 (2021/09/28)
+- Added a field in Hoja2 to choose minimum age of mice included in the list.
+- Fixed bug in ordering of mice by age.
+- Fixed bug that returned value 0 instead of "" when copying a blank "Marca" field in Hoja 2.
+- Added a column in Hoja2 with location (room and rack) of the mouse.
+- Cells in column Edad in Hoja2 are highlighted in color according to value.
+- Cells in columns H, I, and J in Hoja3 are highlighted when they contain values higher than 0 (mice older than 7, 12, and 24 months).
+- Added succint directions in Hoja4 for how to acquire data and bring it to the Excel book.
 
 v.0.2 (2021/09/10)
 - Orders mice registers by principal investigator, then age, then unique ID. This makes easier to select info to send to each PI without revealing info from other PIs.
